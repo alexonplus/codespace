@@ -1,0 +1,6 @@
+function greet(name: string): string {
+    return `Hello, ${name}! Welcome to GitHub Codespaces!`;
+}
+
+const userName = "Tester";
+console.log(greet(userName));
